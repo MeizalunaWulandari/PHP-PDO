@@ -1,0 +1,1 @@
+INSERT INTO `12_database_dasar_prosedural_buku` (`id`, `judul`, `deskripsi`, `penulis`, `penerbit`) VALUES (NULL, 'Si Lancang Anak Durhaka', 'Mengisahkan tentang seorang anak yang durkaha pada ibunya', 'M. Nur', 'Gramedia'), (NULL, 'Kancil Dan Buaya', 'Menceritakan pertikaian kancil yang cerdik dengan buaya yang ini memakannya', 'M. Nur', 'Gramedia')
